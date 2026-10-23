@@ -1,0 +1,17 @@
+{
+  "name": "ts-data-structures",
+  "version": "1.0.0",
+  "description": "Core data structures built from scratch in TypeScript, with tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "keywords": [],
+  "author": "Bernard Sam Apoh",
+  "license": "MIT",
+  "type": "commonjs",
+  "devDependencies": {
+    "typescript": "^7.0.2",
+    "vitest": "^5.0.5"
+  }
+}
